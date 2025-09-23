@@ -36,8 +36,7 @@ Everything is copy‑pasteable and sized for quick demos, with optional stretch 
 | 01:15–01:30 | Run at scale | Replicas + HPA; load test with `hey` |
 | 01:30–01:40 | Monitor & tune | Startup, model load, batching, CPU/GPU |
 | 01:40–01:50 | **Break** | — |
-| 01:50–02:35 | (Optional) Challenge | End‑to‑end: package + push + autoscale |
-| 02:35–02:45 | Wrap‑up | Best practices cheat‑sheet + Q&A |
+
 
 ---
 
