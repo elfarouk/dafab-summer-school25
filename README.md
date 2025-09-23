@@ -9,14 +9,10 @@ Repo containing the material for the DaFAB summer school
 
 **What you get here:** 
 - instructor notes,
-- exact commands,
+- commands,
 - minimal training script,
 - SLURM job files,
-- FastAPI inference server,
-- Dockerfile,
 - Kubernetes manifests.
-
-Everything is copy‑pasteable and sized for quick demos, with optional stretch goals.
 
 ---
 
@@ -222,7 +218,7 @@ sacct -j <JOBID> --format=JobID,Elapsed,AllocTRES%40,State
 
 ---
 
-## Part 2 — Kubernetes Deployment (45 min) — Kubernetes Deployment (45 min)
+## Part 2 — Kubernetes Deployment (45 min)
 
 ### 2.1 Intro to K8s (5 min) — speaking points
 **Learning objectives:** Map training artifact → container → running service with a stable endpoint and scaling knobs.
